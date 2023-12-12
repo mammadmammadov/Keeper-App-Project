@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Keeper-App-Project/static/js/main.ecb16efc.js",
+    "index.html": "/Keeper-App-Project/index.html",
+    "main.ecb16efc.js.map": "/Keeper-App-Project/static/js/main.ecb16efc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ecb16efc.js"
+  ]
+}
